@@ -1,4 +1,4 @@
-name: TerrainGenerator
-main: edu.unca.schalvet.TerrainGenerator.TerrainGenerator
+name: SamsSpoutBlockTutorial
+main: edu.unca.schalvet.SamsSpoutBlockTutorial.SamsSpoutBlockTutorial
 version: 0.1
 load: startup
