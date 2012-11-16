@@ -1,4 +1,4 @@
-package edu.unca.schalvet.SamsSpoutBlockTutorial;
+package edu.unca.schalvet.SamsSpoutItemTutorial;
 
 import java.text.MessageFormat;
 
@@ -11,13 +11,13 @@ import org.bukkit.event.player.PlayerJoinEvent;
 /*
  * This is a sample event listener
  */
-public class SamsSpoutBlockTutorialListener implements Listener {
-    private final SamsSpoutBlockTutorial plugin;
+public class SamsSpoutItemTutorialListener implements Listener {
+    private final SamsSpoutItemTutorial plugin;
 
     /*
      * This listener needs to know about the plugin which it came from
      */
-    public SamsSpoutBlockTutorialListener(SamsSpoutBlockTutorial plugin) {
+    public SamsSpoutItemTutorialListener(SamsSpoutItemTutorial plugin) {
         // Register the listener
         plugin.getServer().getPluginManager().registerEvents(this, plugin);
         

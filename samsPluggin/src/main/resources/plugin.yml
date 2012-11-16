@@ -1,4 +1,4 @@
-name: SamsSpoutBlockTutorial
-main: edu.unca.schalvet.SamsSpoutBlockTutorial.SamsSpoutBlockTutorial
+name: SamsSpoutItemTutorial
+main: edu.unca.schalvet.SamsSpoutItemTutorial.SamsSpoutItemTutorial
 version: 0.1
 load: startup
